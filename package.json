@@ -1,0 +1,19 @@
+{
+  "name": "projnames",
+  "version": "0.0.2",
+  "description": "Projection name to/from EPSG code",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "epsgnames.json"
+  ],
+  "bin": {
+    "projnames": "cli.js"
+  },
+  "author": "Egil Moeller <redhog@redog.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redhog/projnames-js"
+  }
+}
